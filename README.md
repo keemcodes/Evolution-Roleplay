@@ -1,5 +1,5 @@
 # Evolution-Roleplay
-This is a SA:MP server I worked on a development team with between 2013-2015. I was the head developer and made the bulk of the feature based contribution to our code base. We were all close buds and we worked off of a Godfather remix to build a roleplay server. I helped rework alot of the code, update some of the includes we used with YSL stuff, moved from file format to sql etc...
+This is a SA:MP server I worked on a development team with between 2013-2015. I was the head developer and made the bulk of the feature based contributions to our code base. We were all close buds and we worked off of a Godfather remix to build a roleplay server. I helped rework alot of the code, update some of the includes we used with YSL stuff, moved from file format to sql etc...
 
 
 # What's with the duplicates?
